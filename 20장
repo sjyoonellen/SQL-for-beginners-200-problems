@@ -1,0 +1,3 @@
+select REPLACE(ENAME, substr(ENAME,2,1), "*") from table;
+김*호
+
