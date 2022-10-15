@@ -1,0 +1,2 @@
+upper(), lower(), initcap()
+initcap은 맨 앞만 대문자, 그 다음부터는 소문자 
