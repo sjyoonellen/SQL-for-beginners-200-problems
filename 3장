@@ -1,0 +1,4 @@
+select empname as "사원 이름", empno as "사원 번호", sal as "Salary"
+from emp;
+
+" " 는 대소문자 구분하거나, 공백 사용하거나, 특수문자 사용할 때 씀 
