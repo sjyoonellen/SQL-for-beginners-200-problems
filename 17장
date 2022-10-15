@@ -1,0 +1,11 @@
+select substr("Smith", 1,3)
+from table;
+
+SMI 추출됨... 첫번째가 1 
+
+substr("Smith",2)
+m부터 끝까지
+
+INSTR -> 몇 번째 위치에 있는지 확인
+
+select('smith@naver.com', INSTR('smith@naver.com', @)+1)
